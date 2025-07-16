@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. Candidate advised by Prof. [Mao Ye](https://faculty.uestc.edu.cn/yemao/zh_CN/index.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
+I am a Ph.D. Candidate advised by Prof. [Mao Ye](https://faculty.uestc.edu.cn/yemao/zh_CN/index.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
