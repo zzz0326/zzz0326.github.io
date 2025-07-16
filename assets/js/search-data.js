@@ -384,11 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-awarded-outstanding-master-s-thesis-top-3-of-the-graduating-cohort-by-uestc",
+          title: 'Awarded Outstanding Master’s Thesis (Top 3% of the graduating cohort) by UESTC.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
